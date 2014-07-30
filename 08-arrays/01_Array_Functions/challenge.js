@@ -5,7 +5,7 @@ return secondArray;
 };
 
 module.exports.plusesEverywhere = function(array) { 
-  return array.join( + );
+  return array.join("+");
 };
 
 module.exports.arrayQuantityPlusOne = function(array) {
